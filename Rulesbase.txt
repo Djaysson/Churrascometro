@@ -1,0 +1,6 @@
+//base das regras do projeto//
+
+1-Carne - 400 gr por pessoa + de 6horas - 650
+2-Cerveja - 1200 ml por pessoa  + 6horas 2000ml
+3- Refrigerante /agua =  1000ml por pessoa + 6hora 1500ml
+4-crianças valem por 0,5

@@ -9,7 +9,7 @@
 
 
 <h1 align="center">
-    <img alt="Booster" title="Booster" src="./img/projeto.png" width="500px" />
+    <img alt="Booster" title="Booster" src="./img/projeto.png" width="900px" />
 </h1>
 
 ## Tecnologias
